@@ -16,6 +16,13 @@
 4. Efeitos
 
 
+## Areas conceituais
+
+1. Area de desenvolvimento: Pasta de arquivos referentes ao meu projeto, onde o meu repositorio git foi iniciado.
+
+2. Staging area: Local onde eu organizo os arquivos antes do commit
+
+3. Repositorio local: É a minha linda do tempo, também representada pelo arquivo `.git`
 
 ## Subtitulo
 
