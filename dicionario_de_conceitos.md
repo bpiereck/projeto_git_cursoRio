@@ -115,3 +115,6 @@ E, com cinco ou seis retas
 
 Giro um simples compasso
 E, num círculo, eu faço o mundo (que descolorirá)
+
+
+Menssagem o que quiser..... Criando conflito.
