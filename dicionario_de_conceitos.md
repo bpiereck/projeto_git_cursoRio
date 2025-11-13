@@ -121,3 +121,5 @@ New text! Also fine!!!
 SAve, add, commit, push 
 
 Free style conflict solving!
+
+Git branch sao linhas do tempo paralelas que pemitem trabalhar em quipe de forma organizada ou testar debugs qunado eu trabalho sozinha.
