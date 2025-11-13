@@ -122,7 +122,20 @@ SAve, add, commit, push
 
 Free style conflict solving!
 
+<<<<<<< HEAD
 Git branch sao linhas do tempo paralelas que pemitem trabalhar em quipe de forma organizada ou testar debugs qunado eu trabalho sozinha.
 
-nova linha
+### Branching
+
+- Boa pratica para trabalhar em colaboração e fazer debug
+
+- Cria linhsa do tempo paralelas
+
+- Pull traz todas as atualizaçoes
+
+- Push deve ser feito por branch
+
+- Nao ha limites para o numero de branchs
+
+- Nao ha limites de onde o branch começa
 
