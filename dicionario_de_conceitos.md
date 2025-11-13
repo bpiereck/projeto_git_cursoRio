@@ -110,8 +110,17 @@ Descolorirá
 
 Numa folha qualquer
 Eu desenho um Sol amarelo (que descolorirá)
+
+
+
+
+
+
+
+Bom dia Bruna!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 E, com cinco ou seis retas
 É fácil fazer um castelo (que descolorirá)
 
 Giro um simples compasso
 E, num círculo, eu faço o mundo (que descolorirá)
+
