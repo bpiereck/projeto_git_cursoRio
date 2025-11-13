@@ -110,11 +110,14 @@ Descolorirá
 
 Numa folha qualquer
 Eu desenho um Sol amarelo (que descolorirá)
-E, com cinco ou seis retas
-É fácil fazer um castelo (que descolorirá)
-
-Giro um simples compasso
-E, num círculo, eu faço o mundo (que descolorirá)
 
 
-Menssagem o que quiser..... Criando conflito.
+
+
+
+
+
+New text! Also fine!!!
+SAve, add, commit, push 
+
+Free style conflict solving!
