@@ -18,3 +18,10 @@ git commit -m "mensagem significativa"
 git push
 ```
 
+# Dia 2
+
+```
+git branch <New_name>
+
+git checkout <branch_name>
+```
